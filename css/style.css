@@ -33,7 +33,10 @@ h1 {
 
 .pulsante {
   color: white;
-  background-color: #f04c2f;
+  background-color:background-image: url(../images/banner.jpg);
+  background-position: center center;
+  background-size: 150%;
+  text-align: center;;
   padding: 1rem;
   margin-top: 3rem;
   height: 3rem;
@@ -64,7 +67,10 @@ p {
 }
 
 .red {
-  background-color: red;
+  background-color:background-image: url(../images/banner.jpg);
+  background-position: center center;
+  background-size: 150%;
+  text-align: ce;
   text-align: center;
   color: white;
 }
@@ -85,8 +91,8 @@ p {
   margin-bottom: 3rem;
 }
 
-#impara img {
-  width: 50%;
+#foto2 {
+  width: 86%;
   text-align: center;
 }
 
@@ -98,7 +104,7 @@ p {
   border: 2px solid #dee1e3;
   margin-bottom: 3rem;
 }
-#lavora img {
-  width: 100%;
+#foto3 {
+  width: 86%;
   text-align: center;
 }
