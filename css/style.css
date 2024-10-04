@@ -68,9 +68,18 @@ p {
 
 .red {
   background-color: #f04c2f;
-  background-position: center;
-  background-size: 150%;
   text-align: center;
+  color: white;
+  padding: 2rem;
+}
+.grassetto {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  font-style: bold;
+}
+.white {
   color: white;
 }
 
@@ -84,6 +93,7 @@ p {
 #foto1 {
   width: 86%;
   text-align: center;
+  margin-top: 2em;
 }
 #impara {
   border: 2px solid #dee1e3;
@@ -106,4 +116,24 @@ p {
 #foto3 {
   width: 86%;
   text-align: center;
+}
+
+aside {
+  background-color: #28a3ce;
+  color: white;
+  text-align: center;
+  border-top: 0;
+}
+a {
+  color: white;
+}
+
+aside h2 {
+  background-color: #25a2c3;
+  padding: 2rem;
+  text-align: center;
+}
+footer {
+  background-color: #25a2c3;
+  color: white;
 }
